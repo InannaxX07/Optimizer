@@ -6,25 +6,20 @@ Here are the key features:
 
 Real-time GPU monitoring:
 
-Tracks memory usage
-
-Monitors GPU utilization
-
-Collects performance metrics
+1. Tracks memory usage
+2. Monitors GPU utilization
+3. Collects performance metrics
 
 
 Intelligent task scheduling:
 
-Predicts resource requirements based on historical data
-
-Assigns tasks to optimal GPUs
-
-Handles task queuing when resources are constrained
+1. Predicts resource requirements based on historical data
+2. Assigns tasks to optimal GPUs
+3. Handles task queuing when resources are constrained
 
 
 Adaptive optimization:
 
-Continuously monitors and adjusts resource allocation
-
-Uses historical performance data to improve predictions
-Handles task completion and resource freeing
+1. Continuously monitors and adjusts resource allocation
+2. Uses historical performance data to improve predictions
+3. Handles task completion and resource freeing
